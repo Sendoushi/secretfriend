@@ -1,0 +1,15 @@
+{
+  "name": "secretfriend",
+  "version": "0.0.1",
+  "description": "Secret friend randomizer",
+  "main": "lib/secretfriend.js",
+  "bin": {
+    "secretfriend": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo 'TODO'",
+    "start": "node ./bin/cli.js"
+  },
+  "author": "Joel Santos <joel@sendoushi.com>",
+  "license": "MIT"
+}
