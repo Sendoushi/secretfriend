@@ -153,7 +153,7 @@
          */
         help: function () {
             console.log('');
-            console.log('\n' + this.moduleLog + ' \u001b[32m Help\u001b[0m\n');
+            console.log('\n' + this.moduleLog + ' \u001b[32mHelp\u001b[0m\n');
 
             // TODO: Improve interface
             console.log('       \u001b[1mH\u001b[0m       Show help');
